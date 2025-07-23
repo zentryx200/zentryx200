@@ -49,7 +49,7 @@
 
 ## GitHub Stats
 
-![Zentryx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentryx200&show_icons=true&theme=default&hide_title=true)
+![Zentryx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentryx200&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zentryx200&theme=dark)
 
