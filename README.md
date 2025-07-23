@@ -1,16 +1,13 @@
-## Hi there 👋
+# Zentryx
 
-<!--
-**zentryx200/zentryx200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer from Kazakhstan.  
+Focused on building clean, scalable systems using modern web technologies.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript, TypeScript  
+- React, Next.js, Node.js  
+- MongoDB, PostgreSQL  
+- Git, Docker, REST APIs
+
+
