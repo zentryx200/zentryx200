@@ -1,4 +1,4 @@
-# Zentryx
+# Hi,there
 
 **Frontend Developer** based in Kazakhstan  
 Creating clean, performant, and scalable user interfaces using modern web technologies.
