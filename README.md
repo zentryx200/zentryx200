@@ -1,21 +1,20 @@
-# Hi,there
+# 👋 Hey there, I'm Zentryx
 
-**Frontend Developer** based in Kazakhstan  
-Creating clean, performant, and scalable user interfaces using modern web technologies.
+🎯 **Frontend Developer** from Kazakhstan  
+🎨 I build clean, performant, and scalable user interfaces using modern web technologies.
 
 ---
 
 ## About Me
 
-I specialize in building responsive, accessible web applications using tools like React and TypeScript.  
-My focus is on:
+👨‍💻 I'm passionate about design systems, modular code, and intuitive user experiences.
 
-- Writing clear, maintainable code  
-- Crafting seamless user experiences  
-- Following best practices in frontend architecture
+🧠 I enjoy:
+- Writing clean, maintainable code  
+- Crafting smooth, responsive interfaces  
+- Following modern best practices in frontend development  
 
-I'm constantly learning and evolving as a developer, always looking to improve the quality, performance, and usability of what I build.
-
+🚀 Always learning, always improving. I build with intention — clear structure, performance in mind, and attention to detail.
 
 ## Technologies
 
