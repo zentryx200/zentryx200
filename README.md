@@ -1,16 +1,21 @@
 # Zentryx
 
-Frontend Developer from Kazakhstan  
-Focused on building clean, responsive interfaces with modern web technologies.
+**Frontend Developer** based in Kazakhstan  
+Creating clean, performant, and scalable user interfaces using modern web technologies.
 
 ---
 
-## About
+## About Me
 
-I'm a frontend developer with a passion for clear design, modular code, and smooth user experiences.  
-Working primarily with JavaScript and TypeScript to build scalable and efficient web applications.
+I specialize in building responsive, accessible web applications using tools like React and TypeScript.  
+My focus is on:
 
----
+- Writing clear, maintainable code  
+- Crafting seamless user experiences  
+- Following best practices in frontend architecture
+
+I'm constantly learning and evolving as a developer, always looking to improve the quality, performance, and usability of what I build.
+
 
 ## Technologies
 
@@ -25,9 +30,6 @@ Working primarily with JavaScript and TypeScript to build scalable and efficient
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </p>
-
----
-
 ## GitHub Stats
 
 ![Zentryx's GitHub stats](https://github-readme-stats.vercel.app/api?username=zentryx200&show_icons=true&theme=default&hide_title=true)
